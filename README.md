@@ -13,6 +13,7 @@ To use this program, you need python 3.6+.
 2. Start writing your program (learn the langauge below).
 3. Run the `run.py` file.
 
+Inside the `main.goofy` file I wrote a script that calculates all prime numbers within a range. You can just delete the code and start writing your own program.
 Do not rename the `main.goofy` file.
 
 ## How to code in goofy
