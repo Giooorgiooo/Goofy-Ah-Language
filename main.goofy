@@ -1,0 +1,39 @@
+hold on Hold on! This is my first goofy script
+hold on Topic: Calculate Prime Numbers
+
+hold on Hear me out, defining a function to calculate prime numbers
+hearmeout calc_primes(banana min, banana max):
+    hold on Initializing an empty list to store prime numbers
+    banana primes is []
+    
+    hold on Repeating for each number in the specified range (min but also max)
+    repeat banana i times (min but also max):
+        hold on Initializing a counter variable
+        banana counter is 0
+        
+        hold on Checking divisibility for each number (2 but also i)
+        repeat banana j times (2 but also i):
+            hold on What if i/j equals int(i/j)? (checking for divisibility)
+            what if i/j equals int(i/j):
+                hold on Increment the counter if the condition is true
+                counter is counter + 1
+        
+        hold on What if the counter equals 0? (i is a prime number)
+        what if counter equals 0:
+            hold on Append the prime number to the list
+            primes.append(i)
+        
+        hold on Resetting the counter for the next iteration
+        counter is 0
+
+    hold on remove wrong numbers
+    banana no_primes = [0 but also 1 but also -1]
+    repeat i times (3):
+        what if no_primes[i] in primes:
+            primes.remove(no_primes[i])
+
+    hold on Gimme the list of prime numbers
+    gimme primes
+
+hold on Say the result of calculating primes in the range 0 to 1000
+say(calc_primes(-100, 1000))
