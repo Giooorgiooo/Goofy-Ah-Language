@@ -36,4 +36,4 @@ hearmeout calc_primes(banana min, banana max):
     gimme primes
 
 hold on Say the result of calculating primes in the range 0 to 1000
-say(calc_primes(-100, 1000))
+say(calc_primes(0, 1000))
